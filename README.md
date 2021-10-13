@@ -1,21 +1,22 @@
 # [Matlab Workshop Fall 2021](https://uihackyhour.github.io/matlabfall2021)
 
 Instructor: Dr. Victoria A. Müller Ewald
+
 Contact: kerry-tarrant@uiowa.edu, victoriaaugusta-mullerewald@uiowa.edu, or jax-skye@uiowa.edu
 
 ## Lessons
 
 ### October 25th - Principles of clean coding, introduction to MatLab
-* File(s)
+* <a href="/oct25" download="download">File(s)</a>
 
 ### November 1st - Single-subject data analysis and visualization
-* File(s)
+* <a href="/nov1" download="download">File(s)</a>
 
 ### November 8th - Automatic processing of multiple subjects
-* File(s)
+* <a href="/nov8" download="download">File(s)</a>
 
 ### Novemver 22nd - Data analysis in MatLab
-* File(s)
+* <a href="/nov22" download="download">File(s)</a>
 
 ### November 29th - Best practices for working with “inherited” scripts
-* File(s)
+* <a href="/nov29" download="download">File(s)</a>
