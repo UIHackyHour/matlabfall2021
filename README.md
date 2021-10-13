@@ -7,7 +7,7 @@ Contact: kerry-tarrant@uiowa.edu, victoriaaugusta-mullerewald@uiowa.edu, or jax-
 ## Lessons
 
 ### October 25th - Principles of clean coding, introduction to MatLab
-* <a href="https://github.com/UIHackyHour/matlabfall2021/zipball/master/oct25" download="download">File(s)</a>
+* <a href="https://github.com/UIHackyHour/matlabfall2021/oct25" download="download">File(s)</a>
 
 ### November 1st - Single-subject data analysis and visualization
 * <a href="/nov1" download="download">File(s)</a>
