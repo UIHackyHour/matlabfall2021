@@ -24,7 +24,7 @@ Single-subject data analysis and visualization
 Automatic processing of multiple subjects
 * <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov15" download="download">File(s)</a>
 
-### Novemver 22nd
+### November 22nd
 Data analysis in MatLab
 * <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov22" download="download">File(s)</a>
 
