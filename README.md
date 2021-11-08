@@ -4,7 +4,7 @@
 
 Instructor: Dr. Victoria A. Müller Ewald
 
-Zoom link: [Click here!](#zoom-link)
+Zoom link: https://uiowa.zoom.us/j/99106981110
 
 Contact: kerry-tarrant@uiowa.edu, victoriaaugusta-mullerewald@uiowa.edu, or jax-skye@uiowa.edu
 
@@ -33,10 +33,6 @@ Best practices for working with “inherited” scripts
 * <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov29" download="download">File(s)</a>
 
 <br>
-
-## Zoom Link
-<iframe src="https://uiowa.qualtrics.com/jfe/form/SV_bCTtwQz5mgTgg3I" height="550px" width="100%"></iframe>
-
 <br>
 <br>
 <br>
