@@ -22,15 +22,15 @@ Single-subject data analysis and visualization
 
 ### November 15th
 Automatic processing of multiple subjects
-* <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov15" download="download">File(s)</a>
+* <a href="https://downgit.github.io/#/home?url=https://github.com/UIHackyHour/matlabfall2021/tree/master/nov15" download="download">File(s)</a>
 
 ### November 22nd
 Data analysis in MatLab
-* <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov22" download="download">File(s)</a>
+* <a href="https://downgit.github.io/#/home?url=https://github.com/UIHackyHour/matlabfall2021/tree/master/nov22" download="download">File(s)</a>
 
 ### November 29th
 Best practices for working with “inherited” scripts
-* <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov29" download="download">File(s)</a>
+* <a href="https://downgit.github.io/#/home?url=https://github.com/UIHackyHour/matlabfall2021/tree/master/nov29" download="download">File(s)</a>
 
 <br>
 <br>
