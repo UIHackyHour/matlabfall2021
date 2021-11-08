@@ -14,11 +14,11 @@ Contact: kerry-tarrant@uiowa.edu, victoriaaugusta-mullerewald@uiowa.edu, or jax-
 
 ### November 1st
 Principles of clean coding, introduction to MatLab
-* <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov1" download="download">File(s)</a>
+* <a href="https://downgit.github.io/#/home?url=https://github.com/UIHackyHour/matlabfall2021/tree/master/nov1" target="blank">File(s)</a>
 
 ### November 8th
 Single-subject data analysis and visualization
-* <a href="https://github.com/UIHackyHour/matlabfall2021/tree/master/nov8" download="download">File(s)</a>
+* <a href="https://downgit.github.io/#/home?url=https://github.com/UIHackyHour/matlabfall2021/tree/master/nov8" download="download">File(s)</a>
 
 ### November 15th
 Automatic processing of multiple subjects
